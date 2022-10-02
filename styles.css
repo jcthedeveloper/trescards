@@ -1,0 +1,43 @@
+.tres-page {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.card1 {
+    flex-direction: column;
+    border: 1px solid #333;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    position: relative;
+}
+
+
+
+
+
+.card2 {
+    border: 1px solid #333;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    position: relative;
+    
+}
+
+
+
+.card3 {
+    border: 1px solid #333;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    position: relative;
+    
+}
+
+
+
+
+
